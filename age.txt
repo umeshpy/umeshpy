@@ -1,0 +1,11 @@
+# age calculator
+
+y = 1991
+
+z = 2021
+
+print("age ={}".format(z-y))
+
+
+st = 'eDuYeAr'
+print(st.swapcase())
